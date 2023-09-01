@@ -1,6 +1,5 @@
 package ch.iet_gibb.labelcreator.application;
 
-//HALLLLLLO
 public class Holzheizung {
     protected double kWh;
     protected String Einheit;
